@@ -34,8 +34,8 @@ This tool run brute-force attack against site directories to get admin panel he 
   </tr>
   <tr>
     <td class="main">
-      git clone https://github.com/Desiprox/Panel-Tracker.git <br/>
-      OR direct link: https://github.com/Desiprox/Panel-Tracker
+      git clone https://github.com/FaidAmine/Panel-Tracker.git <br/>
+      OR direct link: https://github.com/FaidAmine/Panel-Tracker
     </td>
   </tr>
 </table>
